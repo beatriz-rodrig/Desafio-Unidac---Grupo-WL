@@ -2,6 +2,7 @@
 ## Sistema de gerenciamento do café da manhã dos colaboradores.
 
 ### Com essa aplicação você pode gerenciar o que cada um vai levar, inserir, editar, excluir e listar todos os itens desse café da manhã maravilhoso. ☕
+#### Validação de CPF ✅
 #### CPF e o que cada um levará tem que ser unico. ✅
 #### É necessário preencher todos os campos. ✅
 #### End Points GET, POST, PUT E DELETE ✅

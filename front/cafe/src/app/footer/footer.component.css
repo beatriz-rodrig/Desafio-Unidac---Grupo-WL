@@ -6,10 +6,15 @@ span.nome{
     font-weight: 300;
 }
 
- .coracao{
-    color: red;
+.page-footer{
+    background-color: #000;
+    color: #F2FFFC;
+    clear: both;
+    position: flex;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
-
 .content{
     justify-content: end;
 }
@@ -18,7 +23,5 @@ span.nome{
      .content{
        padding-top: .8rem;
        justify-content: center;
-       
     }
-
 }

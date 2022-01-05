@@ -1,6 +1,5 @@
 .bg-secondary{
     opacity: .7;
-    
 }
 
 .home{
@@ -11,18 +10,38 @@ a > span, li > a{
     font-weight: 500;
 }
 
-.content-nav{
+/* .content-nav{
     width: 10%; 
     height: 78vh;
+} */
+
+.container{
+    position: flex;
+    margin: 2px auto;
+	margin-top: 2px;
+	padding: 20px;
+	width: 100%;
+    height: 100%;
+	max-width: 800px;
+    justify-content: end;
+}
+
+ul {
+	margin: .5em 2em;
+	padding: 0;
+}
+
+.nav-item{
+   margin-right: 18rem; 
+}
+
+span{
+    margin-left: 26rem;
 }
 
 @media only screen and (max-width: 600px) {
-    .content-nav{
-        width: 30%;
-        height: auto;
-        min-height: 78vh;
-    
-    }
-
+    .content{
+      padding-top: .8rem;
+      justify-content: center;
+   }
 }
-

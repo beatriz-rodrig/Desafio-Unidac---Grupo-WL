@@ -1,17 +1,29 @@
 .card{
-    width: 88vw;
+    width: 96.5vw;
     margin-left: .8rem;
-    margin-top: .8rem;
-    box-shadow: 2px 2px 5px hsl(0, 0%, 72%);
+    margin-top: .10rem;
+    box-shadow: 2px 2px 5px hsl(0, 0%, 0%);
 }
 
 h3{
-    font-weight: 400;
+    font-weight: 600;
+    
 }
 
 p{ 
     font-size: 1.1rem;
 }
+
+.carousel-item {
+    
+    max-width: 400px; 
+    max-height:  400px;
+    width: auto;
+    height: auto;
+
+}
+
+
 
 
 @media only screen and (max-width: 600px) {

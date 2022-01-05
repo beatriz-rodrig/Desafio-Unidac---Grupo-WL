@@ -1,8 +1,8 @@
 .card{
-    width: 88vw;
+    width: 96.5vw;
     margin-left: .8rem;
-    margin-top: .8rem;
-    box-shadow: 2px 2px 5px hsl(0, 0%, 72%);
+    margin-top: .10rem;
+    box-shadow: 2px 2px 5px hsl(0, 0%, 0%);  
 }
 
 .container-input{

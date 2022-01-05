@@ -35,7 +35,7 @@ export class CafeUpdateComponent implements OnInit {
   upCafe(){
     this.cafeService.updateCafe(this.cafe).subscribe((resp: Cafe)=>{
       this.cafe = resp
-     this.alert.alertSuccess('Café atualizado!')
+     this.alert.alertSuccess('Café atualizado com sucesso!')
       this.router.navigate(['/cafe'])
     })
   }

@@ -38,7 +38,7 @@ export class CafeDeleteComponent implements OnInit {
 
   removeCafe(){
    this.cafeService.deleteCafe(this.cafe.id).subscribe(() => {
-     this.alert.alertDanger('Café apagado!')
+     this.alert.alertDanger('Cadastro Apagado com sucesso!')
     this.router.navigate(['/cafe'])
    })
 

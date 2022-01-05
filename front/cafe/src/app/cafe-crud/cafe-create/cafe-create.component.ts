@@ -29,15 +29,15 @@ export class CafeCreateComponent implements OnInit {
    
     this.cafeService.postCafe(this.cafe).subscribe((resp: Cafe)=>{
       this.cafe = resp
-      this.alert.alertSuccess('Café registrado!')
+      this.alert.alertSuccess('Colaborador cadastrado com sucesso.')
       this.router.navigate(['/cafe'])
 
     }, erro =>{
       if(erro.status == 401){
-        this.alert.alertDanger('CPF ou Café já cadastrado. Por favor, cadastrar outro.')
+        this.alert.alertDanger('CPF ou tipo de café já cadastrado. Por favor, cadastrar outro.')
       }
       if(erro.status == 400){
-        this.alert.alertInfo('Por favor, preencha os campos!')
+        this.alert.alertInfo('Por favor, preencha todos os campos com dados válidos!')
       }
     })
   }

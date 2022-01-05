@@ -9,6 +9,9 @@
 
 ##### Essa API foi desenvolvida para um desafio da empresa Unidac do Grupo WL.
 
+## Implementações Futuras.
+### Responsividade e acessibilidade.
+
 ## Back-end
 
 ### Tecnologias utilizadas.

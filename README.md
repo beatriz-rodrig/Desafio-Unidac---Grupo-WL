@@ -30,6 +30,7 @@
   <img align="center" alt="Ka-CSS" height="40" width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"/>
   <img align="center" alt="Ka-Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
   <img align="center" alt="Ka-VS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
+  <br>
   </div>
   
   ### Deploy

@@ -14,15 +14,21 @@ p{
     font-size: 1.1rem;
 }
 
-.carousel-item {
+.slides-list{
+    /*remove os estilos da lista*/
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 0;
     
-    max-width: 400px; 
-    max-height:  400px;
-    width: auto;
-    height: auto;
-
-}
-
+    /* 
+      deixa todos os itens da lista
+      na horizontal e todos com a
+      mesma largura
+    */
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+  }
 
 
 

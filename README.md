@@ -9,6 +9,9 @@
 
 ##### Essa API foi desenvolvida para um desafio da empresa Unidac do Grupo WL.
 
+## Implementações Futuras.
+### Responsividade e acessibilidade.
+
 ## Back-end
 
 ### Tecnologias utilizadas.
@@ -39,7 +42,7 @@
   ### Deploy
   <img align="center" alt="Ka-Netlifi" height="40" width="40" src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png"/>
   
-  Link:
+  Link:https://cafegrupowl.netlify.app/
   
  
   

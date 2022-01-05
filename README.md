@@ -6,6 +6,8 @@
 #### É necessário preencher todos os campos. ✅
 #### End Points GET, POST, PUT E DELETE ✅
 
+##### Essa API foi desenvolvida para um desafio da empresa Unidac do Grupo WL.
+
 ## Back-end
 
 ### Tecnologias utilizadas.

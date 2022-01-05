@@ -19,6 +19,9 @@ table tbody tr td{
 
 }
 
+.btn-space {
+    margin-right: 5px;
+}
 
 @media only screen and (max-width: 700px) {
 

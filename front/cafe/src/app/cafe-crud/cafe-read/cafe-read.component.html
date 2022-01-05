@@ -16,10 +16,10 @@
       <td data-title="Café:">{{ item.cafe }}</td>
       <td>
         <a routerLink="/cafe/update/{{ item.id }}">
-          <img src="https://cdn-icons.flaticon.com/png/512/3801/premium/3801984.png?token=exp=1641346948~hmac=e58f627c2e21c1dca2c603f9c33694e6" height="21rem" class="ms-2" alt="">
+          <button type="button" class="btn btn-primary btn-space"  height="21rem" >Editar</button>
         </a>
         <a routerLink="/cafe/delete/{{ item.id }}">
-          <img src="https://cdn-icons.flaticon.com/png/512/2550/premium/2550213.png?token=exp=1641346782~hmac=60346da9822493da103a473fc68ccd85" height="21rem" class="ms-2" alt="">
+          <button type="button" class="btn btn-danger" height="21rem"  >Excluir</button>
         </a>
       </td>
     </tr>

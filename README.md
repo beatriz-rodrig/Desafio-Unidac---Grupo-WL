@@ -42,7 +42,7 @@
   ### Deploy
   <img align="center" alt="Ka-Netlifi" height="40" width="40" src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png"/>
   
-  Link:https://cafegrupowl.netlify.app/
+  Link: https://cafegrupowl.netlify.app/
   
  
   
